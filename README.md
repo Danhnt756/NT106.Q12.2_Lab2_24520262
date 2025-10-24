@@ -9,7 +9,7 @@ Lớp: NT106.Q12.2
 ## Giới thiệu
 Đây là bài thực hành Lab 2 của môn Lập trình mạng căn bản  
 Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM (UIT)  
-Giảng viên hướng dẫn: Thầy Phan Trung Phát
+Giảng viên hướng dẫn: Thầy Trần Văn Như Ý 
 
 Mục tiêu của Lab:
 - Hiểu và thao tác được với File và Stream I/O trong C#
